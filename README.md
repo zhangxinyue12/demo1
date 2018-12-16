@@ -1,5 +1,5 @@
 # student
-https://github.com/zhangxinyue12/demo1/new/master?readme=1
+https://github.com/zhangxinyue12/demo1/new/master?readme=1  
 ##一. 需求分析
 制作一个学生成绩的管理系统，包括实现以下功能：  
 1、输入数据。  
@@ -56,6 +56,26 @@ e.	退出
 （一）系统开发涉及的软件  
 	Microsoft Visual Studio Community 2017 版本 15.5.2   
 （二）系统运行界面及结果
-	1、初始界面：
+1、初始界面：   
+![image](https://github.com/zhangxinyue12/student/raw/master/a.png)     	
+2. 显示学生所有成绩    
+![image](https://github.com/2678344415/zhangxinyue12/raw/master/b.png)       
+![image](https://github.com/2678344415/zhangxinyue12/raw/master/c.png)     
+4. 查询学生成绩  
+![image](https://github.com/2678344415/zhangxinyue12/raw/master/d.png)       
+![image](https://github.com/2678344415/zhangxinyue12/raw/master/e.png)       
+![image](https://github.com/2678344415/zhangxinyue12/raw/master/f.png)   
+7. 退出系统      
+![image](https://github.com/2678344415/zhangxinyue12/raw/master/g.png)   
+
+
+## 四. 系统测试  
+如上述截图，调试一切正常  
+##五、总结  
+	项目实践是锻炼编程能力的一个很好的机会，从零到一个程序的实现，需要设计，思考，查找资料，编写，以及调试与总结，前前后后不仅是对单个编程能力的实现，也是对所有所学知识的一个综合运用和实现。  
+	本次项目实践收获颇丰，大幅度锻炼了我的代码实现能力，也使我更加进一步的理解了程序结构化编程的原理。  
+	通过本程序，我更进一步熟悉了老师上课所讲的知识，在数据管理，文件操作方面也有了自己的创新与实践    本程序是大学生活的一个开端，也是程序之路上面的一个良好的出发点。  
+
+
 	
 
